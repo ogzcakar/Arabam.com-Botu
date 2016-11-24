@@ -2,17 +2,19 @@
 
 PHP ile OOP yapısını kullanarak arabam.com için bir bot sizlere sunuyorum. Kullanmanız ve geliştirmeniz dileğiyle.
 
-Bot Bize ;
+Bot Bize :
 
-Kategoriler ,
+ - Kategoriler 
 
-Herhangi bir kategorinin Alt Kategorileri ,
+ - Herhangi bir kategorinin Alt Kategorileri 
 
-Herhangi bir kategorinin içerisinde bulunan ilanlar ,
+ - Herhangi bir kategorinin içerisinde bulunan ilanlar 
 
-Herhangi bir kategorinin herhangi bir alt kategorisinin içerisinde bulunan ilanlar ,
+ - Herhangi bir kategorinin herhangi bir alt kategorisinin içerisinde bulunan ilanlar 
 
-Kategori veya alt kategoride bulunan ilanların diğer sayfaları.
+ - Kategori veya alt kategoride bulunan ilanların diğer sayfaları
+ 
+ sunuyor.
 
 
 # Kullanım
@@ -31,7 +33,7 @@ veya Klasik Araçlar Menüsünün Cadillac Alt Kategorisinin 2.sayfasındaki ila
 print_r($arabamCom->categoryListContent('Klasik Araçlar' , 'Cadillac ' , '2' ));
 ```
 
-# Projenin Anlatımı
+# Projenin Anlatımı & Demosu
 
 Anlatım : [Arabam.com Bot Anlatımı](http://www.ogzcakar.net/arabam-com-botu) 
 
